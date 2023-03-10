@@ -5,11 +5,12 @@
 
 - Estoy cursando 2do año de la **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** en el [**Instituto Politecnico Superior Córdoba**](https://www.ispc.edu.ar/)
 
-- Actualmente estoy trabajando en [FluxIT](https://www.fluxitsoft.com/)💜
+- Actualmente estoy trabajando en [FluxIT](https://www.fluxitsoft.com/)💜 como Desarrolladora Python Backend, pero también estoy aprendiendo React, JAVA y Groovy.
 
-- Estoy aprendiendo React, JAVA y Groovy
+- Escribí este artículo sobre Django en [Medium](https://medium.com/@vanemanza1)
 
-- Podés conocer más sobre mí [acá](https://vanemanza.online/)
+
+- Podés conocer más sobre mí [acá](https://vanemanza.github.io/)
 - Si querés contactarme, me podés enviar un [mail](vanemanza1@gmail.com)
 
 
@@ -47,4 +48,5 @@
 
 <a href="https://www.github.com/vanemanza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vanemanza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 Algo es algo, pero es un buen comienzo 💪 
