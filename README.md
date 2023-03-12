@@ -7,7 +7,7 @@
 
 - Desde Enero'2022 estoy trabajando en [FluxIT](https://www.fluxitsoft.com/)💜 como Desarrolladora Python Backend.
 
-- Soy muy curiosa y quiero saber un poco de todo, ahora estoy aprendiendo React, JAVA y Groovy.
+- Soy muy curiosa y quiero saber de todo un poco, ahora estoy aprendiendo React, JAVA y Groovy.
 
 - Escribí este artículo sobre Django en [Medium](https://medium.com/@vanemanza1)
 
