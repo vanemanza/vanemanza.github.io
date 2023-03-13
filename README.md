@@ -1,9 +1,9 @@
-# Hola, Soy Vanesa! 
+# Hola, Soy Vanesa!
 
 ## Software Developer Backend 🐍
 - En 2020 comencé a estudiar programación de manera autodidacta tomando cursos online, asistiendo a charlas y workshops.
 
-- Estoy cursando 2do año de la **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** en el [**Instituto Politecnico Superior Córdoba**](https://www.ispc.edu.ar/)
+- Actualmente estoy cursando 2do año de la **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** en el [**Instituto Politecnico Superior Córdoba**](https://www.ispc.edu.ar/)
 
 - Desde Enero'2022 estoy trabajando en [FluxIT](https://www.fluxitsoft.com/)💜 como Desarrolladora Python Backend.
 
