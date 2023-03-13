@@ -54,12 +54,3 @@ src="https://img.shields.io/github/followers/vanemanza?logo=github&style=for-the
 Algo es algo, pero es un buen comienzo 💪 
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H0Q6X0P2H6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H0Q6X0P2H6');
-</script>
